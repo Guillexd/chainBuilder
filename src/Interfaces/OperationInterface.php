@@ -1,6 +1,6 @@
 <?php
 
-namespace ComsitecxD\ChainBuilder\Interfaces;
+namespace Guille\ChainBuilder\Interfaces;
 interface OperationInterface {
     public function operate($result, ...$values);
 }

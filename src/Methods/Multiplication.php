@@ -1,6 +1,6 @@
 <?php 
-namespace ComsitecxD\ChainBuilder\Methods;
-use ComsitecxD\ChainBuilder\Interfaces\OperationInterface;
+namespace Guille\ChainBuilder\Methods;
+use Guille\ChainBuilder\Interfaces\OperationInterface;
 class Multiplication implements OperationInterface
 {
     public function operate($result, ...$values)
