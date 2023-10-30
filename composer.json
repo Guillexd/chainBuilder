@@ -1,11 +1,11 @@
 {
     "name": "guille/chain-builder",
     "description": "It's a calculator that chains functions",
-    "type": "library",
+    "type": "libraty",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Guille\\ChainBuilder\\": "src/"
+            "ComsitecxD\\ChainBuilder\\": "src/"
         }
     },
     "authors": [

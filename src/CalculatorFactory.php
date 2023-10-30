@@ -1,8 +1,8 @@
 <?php
 
-namespace Guille\ChainBuilder;
-use Guille\ChainBuilder\Interfaces\OperationInterface;
-use Guille\ChainBuilder\Calculator;
+namespace ComsitecxD\ChainBuilder;
+use ComsitecxD\ChainBuilder\Interfaces\OperationInterface;
+use ComsitecxD\ChainBuilder\Calculator;
 class CalculatorFactory
 {
     public static function addOperation(string $operationName, OperationInterface $classIntance)

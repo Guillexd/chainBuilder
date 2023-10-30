@@ -1,6 +1,6 @@
 <?php
 
-namespace Guille\ChainBuilder;
+namespace ComsitecxD\ChainBuilder;
 
 class Calculator
 {
